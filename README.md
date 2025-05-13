@@ -11,8 +11,8 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 - Git, GitHub, (basic)
 
 ### 🏆 Projects
-- 🏨 [Hotel Booking Website](https://github.com/your-hotel-repo)
-- 🛒 [E-Commerce Web App](https://github.com/your-ecommerce-repo)
+- 🏨 [Hotel Booking Website](https://github.com/SmartProjects)
+  
 
 ### 📫 Connect with me
 - Email: ampaulkaranja@gmail.com
