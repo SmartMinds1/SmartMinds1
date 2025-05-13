@@ -11,6 +11,7 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 - React, Node.js, Express, PostgreSQL, MariaDB
 - HTML5, CSS3, JavaScript
 - Git, GitHub, (basic)
+   Git JavaScript TypeScript HTML5 React CSS3 NodeJS Express PostgreSQL
 
 ### 🏆 Projects
 - 🏨 [Hotel Booking Website](https://github.com/SmartMinds1/SmartProjects)
