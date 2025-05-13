@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Paul!
 
-💻 About Me
+Web Disigner/Developer
+
 I'm a Full-Stack Web Developer with a passion for crafting modern, responsive, and user-friendly web applications.
 I specialize in building dynamic front-end interfaces with React.js, and designing secure,
 scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 
-### 🔧 Technologies & Tools
+### 🔧Skills
 - React, Node.js, Express, PostgreSQL, MariaDB
 - HTML5, CSS3, JavaScript
 - Git, GitHub, (basic)
