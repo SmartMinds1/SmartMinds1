@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Paul!
 
-# Web Disigner/Developer
+
+## Web Disigner/Developer
 
 I'm a Full-Stack Web Developer with a passion for crafting modern, responsive, and user-friendly web applications.
 I specialize in building dynamic front-end interfaces with React.js, and designing secure,
