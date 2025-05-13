@@ -11,7 +11,7 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 - Git, GitHub, (basic)
 
 ### 🏆 Projects
-- 🏨 [Hotel Booking Website](https://github.com/SmartProjects)
+- 🏨 [Hotel Booking Website](https://github.com/SmartMinds1/SmartProjects)
   
 
 ### 📫 Connect with me
