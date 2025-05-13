@@ -18,7 +18,7 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
   
 
 ### 📫 Connect with me
-<div align="center">
+<div align="left">
   <a href="mailto:ampaulkaranja@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" style="height: 35px;" alt="Email" />
   </a>
