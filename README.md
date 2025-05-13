@@ -8,10 +8,9 @@ I specialize in building dynamic front-end interfaces with React.js, and designi
 scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 
 ### 🔧Skills
-- React, Node.js, Express, PostgreSQL, MariaDB
-- HTML5, CSS3, JavaScript
-- Git, GitHub, (basic)
-   Git JavaScript TypeScript HTML5 React CSS3 NodeJS Express PostgreSQL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,javascript,typescript,html,react,css,nodejs,express,postgres" />
+</div>
 
 ### 🏆 Projects
 - 🏨 [Hotel Booking Website](https://github.com/SmartMinds1/SmartProjects)
