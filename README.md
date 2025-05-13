@@ -18,8 +18,16 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
   
 
 ### 📫 Connect with me
-- Email: ampaulkaranja@gmail.com
-- LinkedIn: www.linkedin.com/in/paul-mwangi-3b23b8351
+<div align="center">
+  <a href="mailto:ampaulkaranja@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" style="height: 35px;" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/paul-mwangi-3b23b8351" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="height: 35px;" alt="LinkedIn" />
+  </a>
+</div>
+
 
 
 <!---
