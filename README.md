@@ -9,7 +9,7 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 
 ### 🔧Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,nodejs,express,postgres,react,tailwind,vite" style="height: 25px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,nodejs,express,postgres,react,tailwind,vite" style="height: 30px;" />
 </div>
 
 
@@ -20,11 +20,11 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 ### 📫 Connect with me
 <div align="left">
   <a href="mailto:ampaulkaranja@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" style="height: 35px;" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" style="height: 30px;" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/paul-mwangi-3b23b8351" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="height: 35px;" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="height: 30px;" alt="LinkedIn" />
   </a>
 </div>
 
