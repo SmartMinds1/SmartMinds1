@@ -9,7 +9,7 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 
 ### 🔧Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,javascript,html,react,css,nodejs,express,postgres" style="height: 35px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,javascript,html,react,css,nodejs,express,postgres,tailwind,vite" style="height: 35px;" />
 </div>
 
 
