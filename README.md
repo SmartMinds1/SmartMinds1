@@ -10,8 +10,9 @@ scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
 ### Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,nodejs,express,postgres,react,tailwind,vite" style="height: 30px;" />
-  <img src="https://raw.githubusercontent.com/react-native-community/branding/master/assets/RN.svg" title="React Native" style="height: 30px; margin-left: 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React Native" style="height: 30px; margin-left: 4px;" />
 </div>
+
 
 
 
