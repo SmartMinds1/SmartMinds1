@@ -1,20 +1,12 @@
 # Hello, I'm Paul!
 
-
 ## Web Disigner/Developer
-
-I'm a Full-Stack Web Developer. I craft modern, fast, secure, and user-friendly web applications.
-I specialize in building dynamic front-end interfaces with React.js, and designing secure,
-scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
+I'm a Full-Stack Web Developer passionate about crafting modern, fast, secure, and user-friendly web applications.
+I specialize in building dynamic front-end interfaces with React.js, and developing secure, scalable back-end systems using Node.js, Express, and PostgreSQL/MariaDB.
+I'm also expanding my expertise into mobile app development by learning to build cross-platform applications with React Native.
 
 ### Skills
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,nodejs,express,postgres,react,tailwind,vite" style="height: 30px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React Native" style="height: 30px; margin-left: 4px;" />
-</div>
-
-
-
+<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,nodejs,express,postgres,react,tailwind,vite" style="height: 30px;" /> </div>
 
 
 ###  Projects
